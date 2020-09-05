@@ -37,6 +37,7 @@ When a story has been completed, there will be a code review to merge stable to 
 ### COLLABORATORS
 Jacob Sauther yourfriendjacob
 Vickey Brown vickeybrown
+John West JohnGWest
 
 ### CONTACT INFO
 To join in the project, please contact jacobsauther@gmail.com.
